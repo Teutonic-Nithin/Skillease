@@ -1,0 +1,53 @@
+.button{
+  width:70%;
+  height:80%;
+background-color: #431541;
+color: white;
+border-radius: 8px;
+border: 2px solid;
+position:relative;
+
+}
+.button:hover {
+  background-color: #FA9905;
+  color: white;
+}
+
+.title{
+  font-family: 'PT Sans', sans-serif;
+  font-size: 3rem;
+}
+/*section2*/
+.second{
+  height:400px;
+  position: relative;
+}
+#data{
+  padding: 100px;
+  text-align: center;
+}
+.center1{
+  padding: 3% 2%;
+}
+.center2{
+  padding: 3% 2%;
+}
+
+/*section 3*/
+.third{
+  padding: 150px 0 0 0;
+  text-align: center;
+  width:100%;
+}
+
+/*navbar*/
+.navbar{
+  background-color: #431541;
+}
+.navbar-brand .navbar-dark{
+  text-align: center;
+}
+.navbar-dark .navbar-brand {
+    color: #fff;
+    margin-left: 40px;
+}
